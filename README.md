@@ -6,4 +6,4 @@ Não possui finalidade comercial e não representa uma versão oficial do jogo o
 
 ## 🎮 Demonstração
 
-![Gameplay do Flappy Bird](assets/flappy_bird_readme.gif)
+![Gameplay do Flappy Bird](Ativos/flappy_bird_readme.gif)
